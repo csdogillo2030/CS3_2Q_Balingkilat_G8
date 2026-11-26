@@ -1,5 +1,5 @@
-from playlists import Playlist
-from songs import Song
+from bernardo import Playlist
+from suliguin import Song
 
 def main():
     my_playlist = Playlist()
